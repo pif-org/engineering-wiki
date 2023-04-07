@@ -28,7 +28,7 @@
 
 [Tools we use 🛠️⚙️](./ToolsWeUse.md)
 
-[Contributing 📥](./CONTRIBUTING.MD)
+[Contribution Guide 📥](./ContributionGuide.md)
 
 [How to deploy 🚀]() - (WIP)
 
