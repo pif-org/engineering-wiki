@@ -4,7 +4,7 @@
 💡 NB: This helps keep the engineering team on the same page by giving them a central location to store their processes, documentation, and projects. By giving your whole company access to this wiki, everyone can keep track of the bigger picture.
 </aside>
 
-<br>
+<br><br>
 
 > 👋 **Welcome to PIF’s Engineering team!** 🚀 Our mission is to design, build, and maintain PIF’s core platform, app, and features.
 
