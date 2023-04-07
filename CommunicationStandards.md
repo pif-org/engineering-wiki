@@ -12,11 +12,16 @@
 
 We use Slack for team communication instead of email. Email is only preferred when dealing with the organization or superiors outside the engineering team or official notice.
 
-There are three core principles we should strive to consistently adhere to:
+There are 4 core principles we should strive to consistently adhere to:
 
 1. **Nothing is real unless it's posted:** 📌 Assume no one knows about a thing you are working on unless you posted it on the #pif-dev-core channel. The channel is the single source of truth for our team. Any core decision, major milestone, brainstorm outputs, etc, should have an associated post. If you would update your manager or team members about it, there should be a post.
 2. **Reactions to posts indicate you've read them:** 🎯 When any posts are made, the only significant way we can be sure you’ve read them is by reacting to that post. Replying to the message in a thread is also encouraged to ensure you have crystal clarity about the post.
 3. **Clarity and tagging matter**: 🔍 Ensure your messages are clear. Itemize your points. Keep it short and clear and always tag those who must see the post or need to act on the post.
+4. **Be available**: 🟢 Throughout your work hours, you have to be online and reachable. Our assumption will be that you're working. If for any reason you need to leave your computer, kindly update your status on slack with something like "Out for lunch" or "AFK - short description". AFK stands for "Away from keyboard" and short description could be commuting.
+
+<aside>
+💡💻 It is essential to be proactive on Slack and communicate extensively. Always seek clarity when needed and be committed to delivering high-quality work efficiently.
+</aside>
 
 ### Code PRs 📥
 
