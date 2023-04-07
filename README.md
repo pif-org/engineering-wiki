@@ -1,66 +1,66 @@
-# Engineering Wiki 📚
+# Engineering Wiki 📚🧪
 
 <aside>
-💡 NB: This helps keep the engineering team on the same page by giving them a central location to store their processes, documentation, and projects. By giving your whole company access to this wiki, everyone can keep track of the bigger picture.
+💡📢 NB: This helps keep the engineering team on the same page by giving them a central location to store their processes, documentation, and projects. By giving your whole company access to this wiki, everyone can keep track of the bigger picture.🌏🔍
 </aside>
 
 <br><br>
 
-> 👋 **Welcome to PIF’s Engineering team!** 🚀 Our mission is to design, build, and maintain PIF’s core platform, app, and features.
+> 👋🏼 **Welcome to PIF’s Engineering team!** 🚀💼 Our mission is to design, build, and maintain PIF’s core platform, app, and features.
 
 <br>
 
-## Engineering Team 👩‍💻👨‍💻
+## Engineering Team 👩‍💻👨‍💻🤝
 | Section             | Team Members          |
 |---------------------|-----------------------|
-| Mobile              | Mubashir Asiyanbi     |
-| Dashboard/Frontend  | Aishat, Abdulsamii Ajala  |
-| API/Backend         | Abdulsamii, Afeez     |
+| Mobile 📱            | Mubashir Asiyanbi     |
+| Dashboard/Frontend 💻| Aishat, Abdulsamii Ajala  |
+| API/Backend 💾       | Abdulsamii, Afeez     |
 
 <br>
 
-## Guides & processes 📝
+## Guides & processes 📝🗂️
 
 ---
 
-- [Communication Standards](./Communication-Standards.md)
+[Communication Standards 🗣️](./CommunicationStandards.md)
 
-- [Tools we use](./ToolsWeUse.md)
+[Tools we use 🛠️⚙️](./ToolsWeUse.md)
 
-- [Contributing](./CONTRIBUTING.MD)
+[Contributing 📥](./CONTRIBUTING.MD)
 
-- [How to deploy]() - (WIP)
+[How to deploy 🚀]() - (WIP)
 
-- [Engineering interviews]() - (WIP)
+[Engineering interviews 🎙️]() - (WIP)
 
 <br>
 
-## Testing 🔍
+## Testing 🔍🧪
 
 ---
 
-- [How to QA]() (WIP)
+[How to QA 🧐]() (WIP)
 
 <br>
 
-## Codebase 💻
+## Codebase 💻📁
 
 ---
 
 We use [typescript](https://www.typescriptlang.org) from top to bottom to ensure code quality, efficiency, and easy collaboration.
 
-- Dashboard - [React](https://react.dev/) powered by [Vite](https://vitejs.dev/)
+Dashboard - [React](https://react.dev/) powered by [Vite](https://vitejs.dev/) 🎛️
 
-- Mobile App - [ReactNative](https://reactnative.dev/) and [Expo](https://docs.expo.dev/)
+Mobile App - [ReactNative](https://reactnative.dev/) and [Expo](https://docs.expo.dev/) 📲
 
-- API/Backend - [NodeJS](https://nodejs.dev/en/) / [ExpressJS](https://expressjs.com/)
+API/Backend - [NodeJS](https://nodejs.dev/en/) / [ExpressJS](https://expressjs.com/) ⌨️
 
-- [Engineering directory ]() (WIP)
+[Engineering directory 🗄️]() (WIP)
 
-## Infrastructure 🌐
+## Infrastructure 🌐🏗️
 
 ---
 
-[AWS]()
+[AWS ☁️]()
 
-[Redis]()
+[Redis 🧱]()
