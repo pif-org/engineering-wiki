@@ -13,9 +13,10 @@
 ## Engineering Team 👩‍💻👨‍💻🤝
 | Section             | Team Members          |
 |---------------------|-----------------------|
-| Mobile 📱            | Mubashir Asiyanbi     |
-| Dashboard/Frontend 💻| Aishat, Abdulsamii Ajala  |
-| API/Backend 💾       | Abdulsamii, Afeez     |
+| Mobile 📱            | Mubashir Asiyanbi    |
+| Dashboard/Frontend 💻| Aishat, Abdulsamii   |
+| API/Backend 💾       | Abdulsamii, Afeez    |
+
 
 <br>
 
