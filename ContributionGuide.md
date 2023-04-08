@@ -39,7 +39,7 @@ Include the GitHub Project task link in your PR description, e.g. `[Task name](h
 # 4. Submit for review 🧐
 
 - Assign the task in Notion to the appropriate reviewer.
-- You can always tag a person on a Notion page by typing `@` followed by their name.
+- You can always tag a person on a pull request by typing `@` followed by their name.
 
 <br>
 
