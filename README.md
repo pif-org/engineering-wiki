@@ -50,9 +50,13 @@
 
 We use [typescript](https://www.typescriptlang.org) from top to bottom to ensure code quality, efficiency, and easy collaboration.
 
-Dashboard - [React](https://react.dev/) powered by [Vite](https://vitejs.dev/) 🎛️
+Dashboard
+- [React](https://react.dev/) powered by [Vite](https://vitejs.dev/) 🎛️
+- Tailwindcss
 
-Mobile App - [ReactNative](https://reactnative.dev/) and [Expo](https://docs.expo.dev/) 📲
+Mobile App 
+- [ReactNative](https://reactnative.dev/)
+- [Expo](https://docs.expo.dev/) 📲
 
 API/Backend - [NodeJS](https://nodejs.dev/en/) / [ExpressJS](https://expressjs.com/) ⌨️
 

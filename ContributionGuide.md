@@ -58,3 +58,9 @@ var commentCount = 0;
 ```
 
 You might suggest that this be a let instead of var.
+
+# Remove unused packages, keep the project clean
+It's always a good practice to ensure no unused package is install. To verify, you can run
+```bash
+npx depcheck
+```
