@@ -43,10 +43,10 @@ As the engineering team is currently based in Nigeria, all meeting times mention
 
 | Name                    | Meeting Day        | Time              | Goals                |
 |-------------------------|--------------------|-------------------|----------------------|
-| Weekly Kickoff Meeting  | Mondays            | 9:00 am - 9:30 am | The team align on the weekly work plan, execution and dev strategy for the current sprint. |
-| Daily Standup  | Tuesdays, Wednesdays and Thursdays | 5:00 pm to 5:10 pm | Quick standup to check in on progress, answer any questions, and mitigate execution risk by over-communicating and requesting support as needed. Primarily for engineers but all functions can share updates as needed. |
-| Weekly Demo | Fridays | 12 pm to 1 pm | It's the time to showcase the progress made throughout the week to both the team and company leadership. |
-| End of Sprint Retrospective | Fridays (fortnightly) | 4:30 pm to 5:30 pm | Review the sprint under 4 headings; <br> 1) What went well 📈 <br> 2) What could have been better 📉 <br> 3) Actions and assignments 📋 |
+| Sprint Retro and Planning  | Fridays            | 10:30 am - 12:30 pm | The team will plan the item for the next sprint and define the goals they want to achieve for that sprint. |
+| Daily Standup  | Monday, Tuesdays, Wednesdays and Thursdays | 5:00 pm to 5:15 pm | Quick standup to check in on progress, answer any questions, and mitigate execution risk by over-communicating and requesting support as needed. Primarily for engineers but all functions can share updates as needed. |
+| Backlog refinement | Wednesday | 2 pm to 2:30 pm | Discuss on tickets in line to be worked on, identify risks and clear out uncertainties about those tickets. |
+| Mid sprint review. | 2nd Friday| 10:30 am to 11:00am| To discuss on the the set sprint goals and measure our confidence level on if we can achieve them
 
 ## Managing Absences, Emergencies, and Time-off Requests ⏳
 
